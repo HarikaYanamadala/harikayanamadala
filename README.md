@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harika Yanamadala</h1>
-<h3 align="center">
+<h3 align="left">
 Shaping the Future with AI, ML & Web Experiences I combine the power of AI, machine learning, and web development to craft smart, user-centered solutions. From personalizing learning 📚 to enhancing shopping experiences 🛍️, I create technology that feels human. 
 What I Do: 
 🤖 Build AI models for personalized and engaging experiences.
