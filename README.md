@@ -1,12 +1,17 @@
 <h1 align="center">Hi 👋, I'm Harika Yanamadala</h1>
 <h3 align="left">
-Shaping the Future with AI, ML & Web Experiences I combine the power of AI, machine learning, and web development to craft smart, user-centered solutions. From personalizing learning 📚 to enhancing shopping experiences 🛍️, I create technology that feels human. 
-What I Do: 
-🤖 Build AI models for personalized and engaging experiences.
-🌐 Design dynamic, user-friendly websites that work seamlessly. 
-🛒 Innovate in phygital retail, redefining how people shop.
-🤝 Collaborate with teams to bring bold ideas to life. 
-I’m passionate about building intuitive and impactful solutions. Let’s create the future together! ✨</h3>
+    Shaping the Future with AI, ML & Web Experiences<br>
+    I combine the power of AI, machine learning, and web development to craft smart, user-centered solutions.<br>
+    From personalizing learning 📚 to enhancing shopping experiences 🛍️, I create technology that feels human.<br><br>
+    <strong>What I Do:</strong><br>
+    🤖 Build AI models for personalized and engaging experiences.<br>
+    🌐 Design dynamic, user-friendly websites that work seamlessly.<br>
+    🛒 Innovate in phygital retail, redefining how people shop.<br>
+    🤝 Collaborate with teams to bring bold ideas to life.<br><br>
+    I’m passionate about building intuitive and impactful solutions.<br>
+    Let’s create the future together! ✨
+</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harikayanamadala&label=Profile%20views&color=0e75b6&style=flat" alt="harikayanamadala" /> </p>
 
