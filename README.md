@@ -19,7 +19,7 @@
 
 - 🌱 I’m currently learning **Blockchain And Generative AI**
 
-- 📝 I regularly write articles on [medium and linkedin](medium and linkedin)
+- 📝 I regularly write articles on medium and linkedin
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
