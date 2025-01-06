@@ -5,7 +5,7 @@
     From personalizing learning 📚 to enhancing shopping experiences 🛍️, I create technology that feels human.<br><br>
     <strong>What I Do:</strong><br>
     🤖 Build AI models for personalized and engaging experiences.<br>
-    🌐 Design dynamic, user-friendly websites that work seamlessly.<br>
+    🌐 Design dynamic, user-friendly websites that work seamlessly and ServiceNow Dashboards to get Cool Interactions.<br>
     🛒 Innovate in phygital retail, redefining how people shop.<br>
     🤝 Collaborate with teams to bring bold ideas to life.<br><br>
     I’m passionate about building intuitive and impactful solutions.<br>
